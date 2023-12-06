@@ -1,0 +1,5 @@
+mkdML08x6jRWVTB9
+
+mongodb+srv://amehlove147:mkdML08x6jRWVTB9@cluster0.lji6l6e.mongodb.net/
+
+mongodb+srv://amehlove147:@cluster0.lji6l6e.mongodb.net/
